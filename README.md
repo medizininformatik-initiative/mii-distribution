@@ -1,45 +1,13 @@
 # MII-Distribution [x.y.z]
 
-Dreistufige Versionsnummerierung für Prozessmodelle: [x.y.z] <br>
+Der folgende Bereich wird von der TF Prozessmodelle verwaltet und dient der Organisation miteinander gültiger Prozessmodelle der MII.
+
+Aufgrund von Anforderungen an die Interoperabilität zwischen den unterschiedlichen Prozessen und Modellebenen, bestehen Abhängigkeiten der Prozessmodelle untereinander, zu anderen Dokumenten der MII und zu releasten Softwarekomponenten. Deshalb sollen sogenannte „Distributionen“ die jeweils miteinander gültigen Modelle, KDS-Module, Softwareversionen und zugrundeliegende oder erläuternde Dokumente beinhalten.  
+
+Die Dreistufige Modellversionsnummerierung sowie die Distributionsnummerierung sind wie folgt aufgebaut:
+
+**Dreistufige Versionsnummerierung für Prozessmodelle: [x.y.z]** <br>
 <Änderungen mit Auswirkungen auf Interoperabilität zu höheren oder niedrigeren Modellebenen>.<Änderungen im Prozessablauf>.<redaktionelle Änderungen> <br>
 <br>
-Dreistufige Versionsnummerierung für Distributionen: [x.y.z] <br>
+**Dreistufige Versionsnummerierung für Distributionen: [x.y.z]** <br>
 <Änderungen der Funktionalität der Distribution>.<Änderungen mit Einfluss auf die Interoperabilität innerhalb der Distribution>.<Änderungen ohne Einfluss auf die Interoperabilität> 
-
-|Modellebene                    |Bezeichnung                  |Versionsnummer                  |Ablageort                  |Bemerkungen                  |
-|-------------------------------|-----------------------------|--------------------------------|---------------------------|-----------------------------|
-| **1**                             | 1 Überblick Data Sharing    | 1.0.0                          | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/01%20Modellebene%201/1%20%C3%9Cberblick%20Data%20Sharing.pdf?csf=1&web=1&e=JeCa6H)| |
-|                              | 1.BP Überblick Begleitende Prozesse | 1.0.0                  | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/01%20Modellebene%201/1.BP%20%C3%9Cberblick%20Begleitende%20Prozesse.pdf?csf=1&web=1&e=tMdusw)|                             |
-| **2** | 2.A Vorbereitungsprozess  | 1.0.0 | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/02%20Modellebene%202/2.A%20Vorbereitungsprozess.pdf?csf=1&web=1&e=c17QZq) | |
-|          | 2.A.1 Schaufenster| 1.0.0| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/02%20Modellebene%202/2.A.1%20Schaufenster.pdf?csf=1&web=1&e=esXJCg)| |
-|  | 2.A.2. Machbarkeitsuntersuchung einfach| 1.0.0 [Verionsnummer muss nach Aktualisierung des Modells gem. Schema angepasst werden]| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/02%20Modellebene%202/2.A.2%20Machbarkeitsuntersuchung_einfach.pdf?csf=1&web=1&e=6sFz1x)| Modell überarbeitet, NSG Beschluss erforderlich? |
-|  | 2.B Antrags- und Vertragsprozess  | 1.0.0 | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/02%20Modellebene%202/2.B%20Antrags-_und_Vertragsprozess.pdf?csf=1&web=1&e=w9fqHF) | |
-|  | 2.C Bereitstellungsprozess |  1.0.0 | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/02%20Modellebene%202/2.C%20Bereitstellungsprozess.pdf?csf=1&web=1&e=Ajd7cV) | |
-|  | 2.D.1 Einwilligungsmanagement - Einwilligungserfassung | 1.0.0 [Verionsnummer muss nach Aktualisierung des Modells gem. Schema angepasst werden] | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/02%20Modellebene%202/Arbeitsversionen/2.D.1%20Einwilligungsmanagement%20-%20Einwilligungserfassung.pdf?csf=1&web=1&e=rYajwH) | Modell überarbeitet, Beschluss ausstehend / Ggf. Bestätigung durch AG Consent ausreichend, oder Vorlage über AG DaSh zum NSG erforderlich? |
-| **3**| 3.A.2 Machbarkeitsuntersuchung| 1.0.0| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/03%20Modellebene%203/3.A.2%20Machbarkeitsanfragen.pdf?csf=1&web=1&e=IyB7kO)| neues Modell, NSG-Beschluss ausstehend |
-|  | 3.C.1 Bereitstellung bei Zentraler Analyse| 1.0.0| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/03%20Modellebene%203/3.C.1%20Bereitstellung%20bei%20Zentraler%20Analyse%20V1.0.pdf?csf=1&web=1&e=tcUuNV) | |
-|  | 3.C.2 Bereitstellung bei Dezentraler Analyse (Skriptverteilung) | 1.0.0 | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/03%20Modellebene%203/3.C.1%20Bereitstellung%20bei%20Zentraler%20Analyse%20V1.0.pdf?csf=1&web=1&e=tcUuNV) | |
-|  | 3.D.1.1 Einwilligungsmanagement - Einwilligungserfassung | 1.0.0 | [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/03%20Modellebene%203/Arbeitsversionen/3.D.1.1%20Einwilligungsmanagement%20-%20Einwilligungserfassung.pdf?csf=1&web=1&e=TxFivD)| neues Modell, NSG-Beschluss ausstehend|
-| | **Mitgeltende Dokumente**| | | Die aufeglisteten Dokumente dienen als Grundlage für die erstellen Prozessmodelle, ohne Garantie auf Vollständigkeit| 
-| | Begleitdokument - Prozessmodelle des Data Sharing| V3.0| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Taskforce%20Prozessmodelle/03%20Modelle/00%20Begleitdokument%20und%20Prozesslandkarte/Begleitdokument%20-%20Prozessmodelle%20des%20Data%20Sharing%20V3.0.pdf?csf=1&web=1&e=t5Do6f)| |
-| | MII-Teilnahmerahmenvertrag | V6.15.8| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Aufbau%20und%20Vernetzungsphase/03_Datennutzung/Teilnahmerahmenvertrag/MII-TRV_v6.15.8.pdf?csf=1&web=1&e=QEZDWl)| |
-| | MII Datenschutzkonzept| V1.0| [Link](https://www.medizininformatik-initiative.de/sites/default/files/2022-03/MII-Datenschutzkonzept_v1.0.pdf)| |
-| | Nutzungsordnung der MII| V1.1| [Link](https://www.medizininformatik-initiative.de/sites/default/files/2020-12/MII_Nutzungsordnung_v1.1.pdf)| |
-| | Nutzungsordnung FDPG| V.05| [Link](https://tmfev.sharepoint.com/:b:/r/sites/tmf/mi-i/Aufbau%20und%20Vernetzungsphase/03_Datennutzung/Nutzungsbedingungen_Machbarkeitsanfragen/Nutzungsbedingungen_MbA_V05.pdf?csf=1&web=1&e=CBh0Ez)| |
-
-<br>**Zusätzliche Informationen zu den Softwarekomponenten, die den Prozessmodellen zugrunde liegen, sind in der folgenden Tabelle aufgeführt.**<br>
-<br>
-
-| **Softwarekomponenten** | Versionierung | Ablageort| Bemerkungen|
-|--------------|--|--|--|
-|KDS-Module <br><br> Basismodule <br> - Diagnose <br>- Fall <br>- Person <br>- Labor <br>- Medikation <br>- Prozedur <br>- Biobank|<br><br><br>- 2024.0.0 <br>- 2024.0.1 <br>- 2024.0.0 <br>- 1.0.6 <br>- 2.0.0 <br>- 2024.0.0 <br>- 1.0.1| Siehe KDS Übersicht <br> [Link](https://github.com/medizininformatik-initiative/kerndatensatz-meta/wiki/%C3%9Cbersicht-%C3%BCber-Versionen-der-Kerndatensatz%E2%80%90Module)| | 
-|FHIR-Ontologie-Generator<br>- Ontologie <br>- Mappings| V2.2.0| [Link](https://github.com/medizininformatik-initiative/fhir-ontology-generator/releases/tag/v2.2.0)| |
-|FDPG-Datenportal<br>- Kohortenfunktionalität<br>- Elastic Search<br>- Frontend<br>- Backend<br>- DSF-Plugin Feasibility<br>- CCDL |- V6.0.0 <br>- DSF-Plugin Feasibility (> V1.0.0.7)|- GUI: [Link](https://github.com/medizininformatik-initiative/feasibility-gui/releases) <br>- Backend: [Link](https://github.com/medizininformatik-initiative/feasibility-backend/releases) <br>- DSF Feasibility Prozessplugin: [Link](https://github.com/medizininformatik-initiative/mii-process-feasibility/releases) <br>| |
-|FDPG-DSF | DSF (> V1.6.0)| DSF: [Link](https://github.com/datasharingframework/dsf/releases)| |
-|DIZ-IT-Komponenten<br>- Flare (optional) <br>- FHIR-Server Blaze (Referenz)<br>- DSF (V1.6.0)<br>- DSF-Plugin Feasibility (> V1.0.0.7)<br>- DSF-plugin KDS-Report (> V1.1.1.1)|<br>- Flare V5.0.0<br>- Blaze (>V0.30.2)<br>- DSF (>V1.6.0)<br>- DSF-Plugin feasibility (>V1.0.0.7)<br>- DSF-Plugin KDS-Report (> V1.1.1.1)|<br><br>- Flare: [Link](https://github.com/medizininformatik-initiative/feasibility-deploy/releases)<br>- Blaze: [Link](https://github.com/samply/blaze/releases)<br>- DSF: [Link](https://github.com/datasharingframework/dsf/releases)<br>- DSF Feasibility Prozessplugin: [Link](https://github.com/medizininformatik-initiative/mii-process-feasibility/releases)<br>- DSF KDS Report Plugin: [Link](https://github.com/medizininformatik-initiative/mii-process-report/releases)| |
-|FDPG-Authentifizierungsdienst | KeycloakVx.x.x | | Muss ergänzt werden|
-|Schnittstellendokument Machbarkeitsanfragen| V2| [Link](https://tmfev.sharepoint.com/:w:/r/sites/tmf/mi-i/bergreifende%20Schnittstellen/06_Ergebnisse-Dokumente/Schnittstellendokument%20Machbarkeitsanfragen/MII-Beschreibung-von-Softwarekomponenten-f%C3%BCr-Machbarkeitsanfragen_V2.0.docx?d=w15bd22c9df6740e0b915ac38c55e7d74&csf=1&web=1&e=uysWa4)|Umlaufbeschluss im NSG Angenommen – Ergebnisdokument sollte noch verlinkt werden |
-|Architekturmodelle (3LGM²) <br>- TM: 02.2b FDPG ‐ Feasibility DSF<br>- TM: 02.4c FDPG ‐ KDS Report DSF|- V2<br>- V2| [Link](https://github.com/medizininformatik-initiative/mii-architecture/releases/tag/MII-Gesamtarchitektur_v2.0), [WIKI Link](https://github.com/medizininformatik-initiative/mii-architecture/wiki)||  
-|Terminologie-Server (SU TermServ)<br>- Terminologien| CSIRO Ontoserver: V6.20.1|[Link](https://ontoserver-ballot.mii-termserv.de/)| | 
-|FDPG-Schaufenster <br>- DSF-Plugin KDS-Report<br>- KDS Report - Datenaggregierung<br>- Schaufenster Frontend?<br>- Schaufenster Backend?|- DSF KDS Report Plugin: V1.1.1.1<br>- KDS Report V2.0.0|- DSF KDS Report Plugin: [Link](https://github.com/medizininformatik-initiative/mii-process-report/releases) <br>- KDS Report:  [Link](https://github.com/medizininformatik-initiative/kds-report)|Hier fehlt noch das Frontend und ggf. Backend vom Schaufenster |   
-|Testdaten für KDS (2024) |KDS Moule: V2024.0.0| [Link](https://github.com/medizininformatik-initiative/mii-testdata/tree/main/kds-testdata)| | 
