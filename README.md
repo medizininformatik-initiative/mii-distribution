@@ -1,6 +1,6 @@
 # MII-Distribution [x.y.z]
 
-Der folgende Bereich wird von der TF Prozessmodelle verwaltet und dient der Organisation miteinander gültiger Prozessmodelle der MII.
+Der folgende Bereich wird von der TF Prozessmodelle verwaltet und dient der Organisation von Prozessmodellen der MII.
 
 Aufgrund von Anforderungen an die Interoperabilität zwischen den unterschiedlichen Prozessen und Modellebenen, bestehen Abhängigkeiten der Prozessmodelle untereinander, zu anderen Dokumenten der MII und zu releasten Softwarekomponenten. Deshalb sollen sogenannte „Distributionen“ die jeweils miteinander gültigen Modelle, KDS-Module, Softwareversionen und zugrundeliegende oder erläuternde Dokumente beinhalten.  
 
