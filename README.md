@@ -2,7 +2,7 @@
 
 Der folgende Bereich wird von der TF Prozessmodelle verwaltet und dient der Organisation von Prozessmodellen der MII.
 
-Aufgrund von Anforderungen an die Interoperabilität zwischen den unterschiedlichen Prozessen und Modellebenen, bestehen Abhängigkeiten der Prozessmodelle untereinander, zu anderen Dokumenten der MII und zu releasten Softwarekomponenten. Deshalb sollen sogenannte „Distributionen“ die jeweils miteinander gültigen Modelle, KDS-Module, Softwareversionen und zugrundeliegende oder erläuternde Dokumente beinhalten.  
+Aufgrund von Anforderungen an die Interoperabilität zwischen den unterschiedlichen Prozessen und Modellebenen, bestehen Abhängigkeiten der Prozessmodelle untereinander, zu anderen Dokumenten der MII und zu releasten Softwarekomponenten. Deshalb sollen sogenannte „Distributionen“ dazu dienen, miteinander gültige Modelle und perspektivisch ggf. auch Dokumente, KDS-Modulversionen und Softwareversionen zu dokumentieren
 
 Die Dreistufige Modellversionsnummerierung sowie die Distributionsnummerierung sind wie folgt aufgebaut:
 
