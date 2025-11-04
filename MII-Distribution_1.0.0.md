@@ -1,4 +1,4 @@
-# MII-Distribution [1.0.1]
+# MII-Distribution [1.0.0]
 
 Dreistufige Versionsnummerierung für Prozessmodelle: [x.y.z] <br>
 <Änderungen mit Auswirkungen auf Interoperabilität zu höheren oder niedrigeren Modellebenen>.<Änderungen im Prozessablauf>.<redaktionelle Änderungen> <br>
